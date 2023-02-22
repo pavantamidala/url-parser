@@ -1,0 +1,14 @@
+{
+    "name": "URL Details",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "Displays details about the current URL",
+    "permissions": [
+      "tabs"
+    ],
+    "browser_action": {
+      "default_title": "URL Details",
+      "default_popup": "popup.html"
+    }
+  }
+  
